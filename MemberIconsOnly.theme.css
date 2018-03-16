@@ -1,3 +1,3 @@
-//META{"name":"MemberIconsOnly","description":"Makes the members list just icons.","author":"jadc","version":"1.0"}*//
+//META{"name":"MemberIconsOnly","description":"Makes the members list just icons.","author":"jadc","version":"1.1"}*//
 
-.channel-members-wrap{min-width:0;width:3em}.member-inner{display:none}.channel-members-wrap .old-h2{opacity:0}.member .avatar-small{left:-1.5em}.member{width:3em;right:0}.userPopout-11hFKo{position:relative;right:16.5em}
+.channel-members-wrap{min-width:0;width:3.5em}.member-inner{display:none}.channel-members h2{font-size:10px;padding:0 .1em;font-weight:600;max-width:5em;text-align:center;overflow-wrap:break-word}.member .avatar-small{left:-1.25em}.member{width:3em;right:0}.userPopout-11hFKo{position:relative;right:16.5em}
