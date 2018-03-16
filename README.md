@@ -11,4 +11,4 @@ Simply press `CTRL + S` and save it to your BetterDiscord themes folder in `%app
 # Before
 ![](https://i.imgur.com/PFR3ljp.png)
 # After
-![](https://i.imgur.com/B2nLD9J.png)
+![](https://i.imgur.com/tPpMh17.png)
